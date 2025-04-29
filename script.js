@@ -6,3 +6,4 @@ console.log(vale.mul(3,4));
 console.log(valu.PI = 23);
 
 // This is amar's file 234567
+// This is amar's file
