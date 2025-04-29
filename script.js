@@ -5,4 +5,4 @@ console.log(vale.mul(3,4));
 
 console.log(valu.PI = 23);
 
-// This is file of amar
+// This is ganda file
